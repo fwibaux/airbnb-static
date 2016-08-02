@@ -1,0 +1,72 @@
+abel:
+  owner_name: Abel F.
+  picture: card-paris.jpg
+  owner_picture: abel.png
+  name: Abel's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+  rating: 3
+  living-room_picture: http://placehold.it/150x150
+  room_picture: http://placehold.it/150x150
+
+andrea:
+  owner_name: Andrea C.
+  picture: card-london.jpeg
+  owner_picture: andrea.png
+  name: Andrea's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+  rating: 4
+  living-room_picture: http://placehold.it/150x150
+  room_picture: http://placehold.it/150x150
+
+domitille:
+  owner_name: Domitille C.
+  picture: card-barcelona.jpg
+  owner_picture: domitille.png
+  name: Domitille's home
+  summary: Charming room in La Ramblas
+  city: Barcelona, Spain
+  wifi: true
+  rating: 5
+  living-room_picture: http://placehold.it/150x150
+  room_picture: http://placehold.it/150x150
+
+fred:
+  owner_name: Fred W
+  picture: rome-card.jpg
+  owner_picture: fred.png
+  name: Fred's home
+  summary: Nice flat near Colosseum
+  city: Rome, Italy
+  wifi: false
+  rating: 4
+  living-room_picture: http://placehold.it/150x150
+  room_picture: http://placehold.it/150x150
+
+mael:
+  owner_name: Mael C.
+  picture: brooklyn-card.jpg
+  owner_picture: mael.png
+  name: Mael's home
+  summary: Charming room in Brooklyn
+  city: New York, USA
+  wifi: true
+  rating: 5
+  living-room_picture: http://placehold.it/150x150
+  room_picture: http://placehold.it/150x150
+
+paul:
+  owner_name: Paul H.
+  picture: mulholland-drive-card.jpg
+  owner_picture: paul.png
+  name: Paul's home
+  summary: Nice flat in Mulholland Drive
+  city: Los Angeles, USA
+  wifi: false
+  rating: 4
+  living-room_picture: http://placehold.it/150x150
+  room_picture: http://placehold.it/150x150
+
